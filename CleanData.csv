@@ -1,0 +1,823 @@
+﻿Ship Mode,Segment,Order Date,Sales
+First Class,Consumer,41289,149.95
+First Class,Consumer,41501,243.6
+First Class,Consumer,41632,9.568
+First Class,Consumer,41371,8.96
+First Class,Consumer,41413,34.2
+First Class,Consumer,41522,31.984
+First Class,Consumer,41498,286.65
+First Class,Consumer,41460,514.03
+First Class,Consumer,41394,1000.95
+First Class,Consumer,41356,9.912
+First Class,Consumer,41638,39.128
+First Class,Consumer,41747,106.5
+First Class,Consumer,41964,18.176
+First Class,Consumer,41996,194.32
+First Class,Consumer,41721,59.48
+First Class,Consumer,41942,182.91
+First Class,Consumer,41745,2298.9
+First Class,Consumer,41945,197.72
+First Class,Consumer,41973,440.144
+First Class,Consumer,41965,32.985
+First Class,Consumer,41984,196.62
+First Class,Consumer,41994,47.976
+First Class,Consumer,42348,1056.86
+First Class,Consumer,42210,73.2
+First Class,Consumer,42047,1366.04
+First Class,Consumer,42231,15.552
+First Class,Consumer,42160,75.88
+First Class,Consumer,42344,191.82
+First Class,Consumer,42230,125.92
+First Class,Consumer,42355,34.944
+First Class,Consumer,42170,58.4
+First Class,Consumer,42130,79.14
+First Class,Consumer,42155,3.282
+First Class,Consumer,42165,695.7
+First Class,Consumer,42314,1120.73
+First Class,Consumer,42328,18.48
+First Class,Consumer,42126,377.346
+First Class,Consumer,42656,1541.51
+First Class,Consumer,42729,141
+First Class,Consumer,42722,12.672
+First Class,Consumer,42725,71
+First Class,Consumer,42491,318.96
+First Class,Consumer,42624,34.504
+First Class,Consumer,42685,88.92
+First Class,Consumer,42636,251.64
+First Class,Consumer,42694,52.696
+First Class,Consumer,42469,284.19
+First Class,Consumer,42407,359.97
+First Class,Consumer,42520,253.86
+First Class,Consumer,42475,4.89
+First Class,Consumer,42583,271.96
+First Class,Consumer,42384,29.664
+First Class,Consumer,42706,701.96
+First Class,Consumer,42541,4.464
+First Class,Consumer,42496,54.66
+First Class,Consumer,42723,1665.62
+First Class,Consumer,42714,19.104
+First Class,Consumer,42635,726.91
+First Class,Consumer,42652,10.816
+First Class,Consumer,42637,79
+First Class,Consumer,41448,23.12
+First Class,Consumer,41805,11.672
+First Class,Consumer,42103,354.9
+First Class,Consumer,42226,645.136
+First Class,Consumer,42300,39.92
+First Class,Consumer,42334,59.98
+First Class,Consumer,42215,2.214
+First Class,Consumer,42090,187.616
+First Class,Consumer,42162,678.87
+First Class,Consumer,42706,34.65
+First Class,Consumer,42543,37.608
+First Class,Consumer,42656,348.56
+First Class,Corporate,41460,242.546
+First Class,Corporate,41352,590.762
+First Class,Corporate,41280,12.78
+First Class,Corporate,41399,47.32
+First Class,Corporate,41513,1812.01
+First Class,Corporate,41600,9.96
+First Class,Corporate,41311,321.56
+First Class,Corporate,41525,116.85
+First Class,Corporate,41567,426.942
+First Class,Corporate,41676,176.63
+First Class,Corporate,41801,3165.744
+First Class,Corporate,41864,64.68
+First Class,Corporate,41822,246.364
+First Class,Corporate,41957,860.07
+First Class,Corporate,41808,670.001
+First Class,Corporate,41973,17.088
+First Class,Corporate,42130,14.352
+First Class,Corporate,42168,224.9
+First Class,Corporate,42335,3236.41
+First Class,Corporate,42303,783.96
+First Class,Corporate,42243,31.008
+First Class,Corporate,42092,31.4
+First Class,Corporate,42372,740.214
+First Class,Corporate,42627,1017.136
+First Class,Corporate,42587,13.76
+First Class,Corporate,42476,503.22
+First Class,Corporate,42516,234.2
+First Class,Corporate,42554,9.552
+First Class,Corporate,42461,127.95
+First Class,Corporate,42499,272.232
+First Class,Corporate,42678,1883.724
+First Class,Corporate,42437,668.54
+First Class,Corporate,42508,524.85
+First Class,Corporate,42475,15.57
+First Class,Corporate,41978,97.424
+First Class,Corporate,42251,87.28
+First Class,Corporate,42036,56.45
+First Class,Corporate,42315,368.432
+First Class,Corporate,42566,1065.84
+First Class,Corporate,42609,2.896
+First Class,Home Office,41560,389.74
+First Class,Home Office,41628,2884.37
+First Class,Home Office,41407,405.456
+First Class,Home Office,42211,10.44
+First Class,Home Office,42099,177.78
+First Class,Home Office,42264,121.78
+First Class,Home Office,42462,771.8
+First Class,Home Office,42485,109.968
+First Class,Home Office,42621,220.056
+First Class,Home Office,42673,204.98
+First Class,Home Office,42335,3.744
+First Class,Home Office,42645,2437.672
+Same Day,Consumer,41571,11.85
+Same Day,Consumer,41337,354.9
+Same Day,Consumer,41364,1142.165
+Same Day,Consumer,41483,193.152
+Same Day,Consumer,41555,23.472
+Same Day,Consumer,41455,310.688
+Same Day,Consumer,41720,598.352
+Same Day,Consumer,41790,10.272
+Same Day,Consumer,41935,78.456
+Same Day,Consumer,42200,29
+Same Day,Consumer,42145,1363.96
+Same Day,Consumer,42042,107.83
+Same Day,Consumer,42340,863.928
+Same Day,Consumer,42313,10.74
+Same Day,Consumer,42306,314.393
+Same Day,Consumer,42187,85.5
+Same Day,Consumer,42194,839.944
+Same Day,Consumer,42147,14.73
+Same Day,Consumer,42663,59.824
+Same Day,Consumer,42598,80.564
+Same Day,Consumer,42496,817.829
+Same Day,Consumer,42523,25.344
+Same Day,Consumer,41583,149.9
+Same Day,Consumer,42339,36.192
+Same Day,Consumer,42350,85.224
+Same Day,Consumer,42230,89.32
+Same Day,Consumer,42509,195.64
+Same Day,Consumer,42557,239.24
+Same Day,Corporate,41403,158.71
+Same Day,Corporate,42324,630.024
+Same Day,Corporate,42434,839.25
+Same Day,Corporate,41897,111.904
+Same Day,Corporate,42678,8167.42
+Same Day,Home Office,41371,259.29
+Same Day,Home Office,41775,255.968
+Same Day,Home Office,42149,261.1
+Same Day,Home Office,42525,117.62
+Same Day,Home Office,42655,7.968
+Same Day,Home Office,42040,2075.51
+Second Class,Consumer,41624,129.44
+Second Class,Consumer,41513,13.36
+Second Class,Consumer,41287,545.94
+Second Class,Consumer,41295,25.248
+Second Class,Consumer,41492,62.91
+Second Class,Consumer,41627,1979.89
+Second Class,Consumer,41625,40.05
+Second Class,Consumer,41396,479.984
+Second Class,Consumer,41539,4.608
+Second Class,Consumer,41508,7.632
+Second Class,Consumer,41434,1441.3
+Second Class,Consumer,41393,69.9
+Second Class,Consumer,41531,26.128
+Second Class,Consumer,41631,619.848
+Second Class,Consumer,41336,19.456
+Second Class,Consumer,41394,47.79
+Second Class,Consumer,41494,155.456
+Second Class,Consumer,41383,129.33
+Second Class,Consumer,41399,40.54
+Second Class,Consumer,41515,709.0425
+Second Class,Consumer,41951,750.93
+Second Class,Consumer,41707,4.608
+Second Class,Consumer,41667,4297.644
+Second Class,Consumer,41896,269.49
+Second Class,Consumer,41714,498.93
+Second Class,Consumer,41727,5.56
+Second Class,Consumer,41699,58.72
+Second Class,Consumer,41979,173.94
+Second Class,Consumer,41977,1635.018
+Second Class,Consumer,41934,9.952
+Second Class,Consumer,42126,140.52
+Second Class,Consumer,42344,1284.8
+Second Class,Consumer,42082,871.8
+Second Class,Consumer,42279,36.364
+Second Class,Consumer,42305,290.98
+Second Class,Consumer,42275,31.83
+Second Class,Consumer,42323,513.52
+Second Class,Consumer,42253,228.586
+Second Class,Consumer,42362,859.14
+Second Class,Consumer,42185,191.88
+Second Class,Consumer,42140,7.764
+Second Class,Consumer,42252,131.104
+Second Class,Consumer,42271,487.22
+Second Class,Consumer,42317,993.9
+Second Class,Consumer,42232,225.296
+Second Class,Consumer,42230,21.504
+Second Class,Consumer,42037,8805.04
+Second Class,Consumer,42134,27.86
+Second Class,Consumer,42186,1302.83
+Second Class,Consumer,42109,81.2
+Second Class,Consumer,42154,1002.7
+Second Class,Consumer,42312,903.77
+Second Class,Consumer,42299,111.672
+Second Class,Consumer,42607,13.152
+Second Class,Consumer,42609,14.336
+Second Class,Consumer,42580,61.216
+Second Class,Consumer,42636,212.91
+Second Class,Consumer,42578,194.848
+Second Class,Consumer,42725,23.88
+Second Class,Consumer,42456,874.8
+Second Class,Consumer,42578,91.032
+Second Class,Consumer,42624,209.88
+Second Class,Consumer,42561,18.84
+Second Class,Consumer,42707,47.992
+Second Class,Consumer,42605,4590.344
+Second Class,Consumer,42537,740.59
+Second Class,Consumer,42677,16.272
+Second Class,Consumer,42671,273.088
+Second Class,Consumer,42518,301.96
+Second Class,Consumer,42637,253.824
+Second Class,Consumer,42726,7.824
+Second Class,Consumer,42693,22.96
+Second Class,Consumer,42699,48.87
+Second Class,Consumer,42603,866.4
+Second Class,Consumer,42517,25.92
+Second Class,Consumer,42588,161.14
+Second Class,Consumer,42589,79.992
+Second Class,Consumer,42729,400.39
+Second Class,Consumer,42687,728.968
+Second Class,Consumer,42680,831.368
+Second Class,Consumer,41375,737.2
+Second Class,Consumer,41446,425.67
+Second Class,Consumer,41998,433.78
+Second Class,Consumer,41888,85.98
+Second Class,Consumer,42082,189.882
+Second Class,Consumer,42309,32.064
+Second Class,Consumer,42613,229.544
+Second Class,Consumer,42687,2.064
+Second Class,Consumer,42733,1814.68
+Second Class,Consumer,42418,29.16
+Second Class,Consumer,42713,1827.51
+Second Class,Corporate,41606,542.34
+Second Class,Corporate,41369,4251.92
+Second Class,Corporate,41565,2216.8
+Second Class,Corporate,41344,782.63
+Second Class,Corporate,41510,25.5
+Second Class,Corporate,41582,66.616
+Second Class,Corporate,41621,12.39
+Second Class,Corporate,41624,1015.816
+Second Class,Corporate,41287,1287.26
+Second Class,Corporate,41590,7.872
+Second Class,Corporate,42004,596.48
+Second Class,Corporate,41784,467.04
+Second Class,Corporate,41825,12.158
+Second Class,Corporate,41987,3.76
+Second Class,Corporate,41900,717.12
+Second Class,Corporate,41889,140.736
+Second Class,Corporate,41858,520.03
+Second Class,Corporate,41774,17.94
+Second Class,Corporate,41916,392.94
+Second Class,Corporate,41652,9.82
+Second Class,Corporate,42028,31.36
+Second Class,Corporate,42357,1410.066
+Second Class,Corporate,42151,232.624
+Second Class,Corporate,42068,10.08
+Second Class,Corporate,42009,255.904
+Second Class,Corporate,42340,2145.25
+Second Class,Corporate,42202,199.18
+Second Class,Corporate,42313,1106.924
+Second Class,Corporate,42084,86.45
+Second Class,Corporate,42337,2673.69
+Second Class,Corporate,42677,26.4
+Second Class,Corporate,42692,552.856
+Second Class,Corporate,42470,16.739
+Second Class,Corporate,42645,10.16
+Second Class,Corporate,42420,1245.86
+Second Class,Corporate,42698,406.94
+Second Class,Corporate,42460,3098.61
+Second Class,Corporate,42461,269.4
+Second Class,Corporate,42396,22.63
+Second Class,Corporate,42676,3291.07
+Second Class,Corporate,42509,342.24
+Second Class,Corporate,42677,15.992
+Second Class,Corporate,42698,19.008
+Second Class,Corporate,42685,1158.12
+Second Class,Corporate,41833,38.88
+Second Class,Corporate,41837,231.92
+Second Class,Corporate,42327,1319.96
+Second Class,Corporate,42348,82.92
+Second Class,Corporate,42699,701.96
+Second Class,Corporate,42727,1152.87
+Second Class,Home Office,41349,471.92
+Second Class,Home Office,41597,682.91
+Second Class,Home Office,41901,61.96
+Second Class,Home Office,41888,3.444
+Second Class,Home Office,41904,80.38
+Second Class,Home Office,41973,89.36
+Second Class,Home Office,41727,1166.92
+Second Class,Home Office,42043,1127.976
+Second Class,Home Office,42096,7.04
+Second Class,Home Office,42172,91.475
+Second Class,Home Office,42112,55.416
+Second Class,Home Office,42258,67.56
+Second Class,Home Office,42729,819.28
+Second Class,Home Office,42629,18
+Second Class,Home Office,42684,11.52
+Second Class,Home Office,42714,684.78
+Second Class,Home Office,42630,830.24
+Second Class,Home Office,42593,477.51
+Second Class,Home Office,41785,352.168
+Second Class,Home Office,42368,62.752
+Second Class,Home Office,42363,823.61
+Second Class,Home Office,42704,71.976
+Second Class,Home Office,42460,732.93
+Standard Class,Consumer,41427,605.47
+Standard Class,Consumer,41452,616.14
+Standard Class,Consumer,41620,23.472
+Standard Class,Consumer,41389,302.376
+Standard Class,Consumer,41545,337.088
+Standard Class,Consumer,41481,256.48
+Standard Class,Consumer,41593,362.176
+Standard Class,Consumer,41622,186.304
+Standard Class,Consumer,41337,15.552
+Standard Class,Consumer,41584,43.68
+Standard Class,Consumer,41307,199.296
+Standard Class,Consumer,41536,2692.329
+Standard Class,Consumer,41316,1508.13
+Standard Class,Consumer,41525,254.97
+Standard Class,Consumer,41609,95.968
+Standard Class,Consumer,41628,732.312
+Standard Class,Consumer,41613,24.56
+Standard Class,Consumer,41459,37.44
+Standard Class,Consumer,41547,69.216
+Standard Class,Consumer,41562,15.384
+Standard Class,Consumer,41416,180.93
+Standard Class,Consumer,41581,147.344
+Standard Class,Consumer,41348,370.782
+Standard Class,Consumer,41519,1793.98
+Standard Class,Consumer,41614,42.208
+Standard Class,Consumer,41531,149.56
+Standard Class,Consumer,41615,105.52
+Standard Class,Consumer,41592,32.4
+Standard Class,Consumer,41606,14.67
+Standard Class,Consumer,41366,1220.67
+Standard Class,Consumer,41581,1395.673
+Standard Class,Consumer,41425,773.7
+Standard Class,Consumer,41431,63.381
+Standard Class,Consumer,41735,47.952
+Standard Class,Consumer,41799,175.32
+Standard Class,Consumer,41875,3747.93
+Standard Class,Consumer,41897,1918.79
+Standard Class,Consumer,41673,74.52
+Standard Class,Consumer,41802,55.984
+Standard Class,Consumer,41750,893.09
+Standard Class,Consumer,41944,301.96
+Standard Class,Consumer,41977,8.226
+Standard Class,Consumer,41956,115.296
+Standard Class,Consumer,41822,27.504
+Standard Class,Consumer,41994,78.192
+Standard Class,Consumer,41925,371.66
+Standard Class,Consumer,41956,84.96
+Standard Class,Consumer,41816,535.36
+Standard Class,Consumer,41948,387.136
+Standard Class,Consumer,41895,199.86
+Standard Class,Consumer,41648,364.07
+Standard Class,Consumer,41862,46.152
+Standard Class,Consumer,41864,5.64
+Standard Class,Consumer,41719,1270.379
+Standard Class,Consumer,41755,194.1395
+Standard Class,Consumer,41976,288.85
+Standard Class,Consumer,41811,107.976
+Standard Class,Consumer,41740,121.888
+Standard Class,Consumer,41909,2026.78
+Standard Class,Consumer,41823,365.91
+Standard Class,Consumer,41921,30.84
+Standard Class,Consumer,41808,1046.47
+Standard Class,Consumer,41922,1801.632
+Standard Class,Consumer,42000,105.42
+Standard Class,Consumer,41980,436.86
+Standard Class,Consumer,41956,233.064
+Standard Class,Consumer,41895,13.092
+Standard Class,Consumer,41899,87.168
+Standard Class,Consumer,41902,1664.132
+Standard Class,Consumer,41886,919.49
+Standard Class,Consumer,41906,517.5
+Standard Class,Consumer,41717,14.496
+Standard Class,Consumer,41998,19.584
+Standard Class,Consumer,41714,6412.77
+Standard Class,Consumer,41766,45.68
+Standard Class,Consumer,41710,5.04
+Standard Class,Consumer,41656,88.96
+Standard Class,Consumer,41779,169.544
+Standard Class,Consumer,41829,5.16
+Standard Class,Consumer,41768,48.81
+Standard Class,Consumer,41973,177.48
+Standard Class,Consumer,41993,36.27
+Standard Class,Consumer,41903,3631.96
+Standard Class,Consumer,41940,104.51
+Standard Class,Consumer,41921,50.462
+Standard Class,Consumer,41963,377.902
+Standard Class,Consumer,41874,1142.43
+Standard Class,Consumer,41898,31.12
+Standard Class,Consumer,41965,58.05
+Standard Class,Consumer,41690,29.99
+Standard Class,Consumer,42188,7.7
+Standard Class,Consumer,42259,1611.01
+Standard Class,Consumer,42211,2503.47
+Standard Class,Consumer,42336,447.783
+Standard Class,Consumer,42250,1854.241
+Standard Class,Consumer,42051,323.88
+Standard Class,Consumer,42145,2.694
+Standard Class,Consumer,42277,298.83
+Standard Class,Consumer,42266,3
+Standard Class,Consumer,42366,2.61
+Standard Class,Consumer,42107,448.81
+Standard Class,Consumer,42347,334.256
+Standard Class,Consumer,42153,185.88
+Standard Class,Consumer,42270,24.066
+Standard Class,Consumer,42252,239.5
+Standard Class,Consumer,42038,866.4
+Standard Class,Consumer,42232,705.544
+Standard Class,Consumer,42322,52.136
+Standard Class,Consumer,42252,291.74
+Standard Class,Consumer,42334,73.36
+Standard Class,Consumer,42254,99.156
+Standard Class,Consumer,42018,405.344
+Standard Class,Consumer,42265,396
+Standard Class,Consumer,42286,387.72
+Standard Class,Consumer,42340,4.704
+Standard Class,Consumer,42319,41.86
+Standard Class,Consumer,42113,233.48
+Standard Class,Consumer,42306,38.19
+Standard Class,Consumer,42267,254.99
+Standard Class,Consumer,42207,370.184
+Standard Class,Consumer,42266,1264.14
+Standard Class,Consumer,42353,133.38
+Standard Class,Consumer,42049,264.18
+Standard Class,Consumer,42364,870.04
+Standard Class,Consumer,42103,17.92
+Standard Class,Consumer,42127,187.056
+Standard Class,Consumer,42256,99.872
+Standard Class,Consumer,42292,305.248
+Standard Class,Consumer,42154,60.485
+Standard Class,Consumer,42144,641.96
+Standard Class,Consumer,42200,88.15
+Standard Class,Consumer,42348,40.68
+Standard Class,Consumer,42182,135.95
+Standard Class,Consumer,42369,72.224
+Standard Class,Consumer,42243,186.54
+Standard Class,Consumer,42205,1110.5
+Standard Class,Consumer,42215,732.156
+Standard Class,Consumer,42111,158.256
+Standard Class,Consumer,42055,16.496
+Standard Class,Consumer,42359,66.3
+Standard Class,Consumer,42072,1466.32
+Standard Class,Consumer,42525,12.48
+Standard Class,Consumer,42677,1030.742
+Standard Class,Consumer,42691,699.4
+Standard Class,Consumer,42693,843.84
+Standard Class,Consumer,42491,3740.51
+Standard Class,Consumer,42678,248.396
+Standard Class,Consumer,42618,177.08
+Standard Class,Consumer,42694,209.568
+Standard Class,Consumer,42572,951.98
+Standard Class,Consumer,42594,20.736
+Standard Class,Consumer,42703,491.888
+Standard Class,Consumer,42689,559.2
+Standard Class,Consumer,42708,649
+Standard Class,Consumer,42693,25.06
+Standard Class,Consumer,42475,15.552
+Standard Class,Consumer,42607,192.16
+Standard Class,Consumer,42721,504.9
+Standard Class,Consumer,42638,177.55
+Standard Class,Consumer,42666,863.88
+Standard Class,Consumer,42613,659.9
+Standard Class,Consumer,42642,243.92
+Standard Class,Consumer,42697,105.408
+Standard Class,Consumer,42704,173.8
+Standard Class,Consumer,42394,5.67
+Standard Class,Consumer,42488,28.08
+Standard Class,Consumer,42432,72.8
+Standard Class,Consumer,42534,181.86
+Standard Class,Consumer,42634,80.48
+Standard Class,Consumer,42728,712.85
+Standard Class,Consumer,42699,723.92
+Standard Class,Consumer,42404,119.178
+Standard Class,Consumer,42536,776.08
+Standard Class,Consumer,42384,175.086
+Standard Class,Consumer,42595,2382.926
+Standard Class,Consumer,42494,629.86
+Standard Class,Consumer,42721,544.38
+Standard Class,Consumer,42471,22.744
+Standard Class,Consumer,42701,52.344
+Standard Class,Consumer,42609,5.184
+Standard Class,Consumer,42504,48.69
+Standard Class,Consumer,42532,4.572
+Standard Class,Consumer,42711,372.64
+Standard Class,Consumer,42488,751.984
+Standard Class,Consumer,42509,2361.52
+Standard Class,Consumer,42626,15.92
+Standard Class,Consumer,42568,7.904
+Standard Class,Consumer,42727,303.32
+Standard Class,Consumer,42524,1111.698
+Standard Class,Consumer,42704,2165.658
+Standard Class,Consumer,42533,17.088
+Standard Class,Consumer,42667,11.68
+Standard Class,Consumer,42462,14.94
+Standard Class,Consumer,42628,163.96
+Standard Class,Consumer,42616,24.448
+Standard Class,Consumer,42482,675.06
+Standard Class,Consumer,42615,1577.94
+Standard Class,Consumer,42622,458.984
+Standard Class,Consumer,42400,419.136
+Standard Class,Consumer,42646,33.472
+Standard Class,Consumer,42726,1090.348
+Standard Class,Consumer,42441,40.41
+Standard Class,Consumer,42516,23.08
+Standard Class,Consumer,42686,26.72
+Standard Class,Consumer,42659,124.75
+Standard Class,Consumer,42663,199.17
+Standard Class,Consumer,42623,2.78
+Standard Class,Consumer,42635,30.9
+Standard Class,Consumer,42669,608.43
+Standard Class,Consumer,42691,35.04
+Standard Class,Consumer,42706,32.776
+Standard Class,Consumer,42692,47.328
+Standard Class,Consumer,42676,5.56
+Standard Class,Consumer,41526,1299.99
+Standard Class,Consumer,41534,52.608
+Standard Class,Consumer,41294,1859.4
+Standard Class,Consumer,41627,252.612
+Standard Class,Consumer,41354,310.528
+Standard Class,Consumer,41505,638.82
+Standard Class,Consumer,41355,59.109
+Standard Class,Consumer,41426,904.13
+Standard Class,Consumer,41547,15.552
+Standard Class,Consumer,41923,979.9455
+Standard Class,Consumer,41984,12.828
+Standard Class,Consumer,41801,207.82
+Standard Class,Consumer,41847,29.97
+Standard Class,Consumer,41755,1001.76
+Standard Class,Consumer,41698,551.264
+Standard Class,Consumer,41968,13.12
+Standard Class,Consumer,41983,129.64
+Standard Class,Consumer,41970,459.4335
+Standard Class,Consumer,42253,1678
+Standard Class,Consumer,42350,6.672
+Standard Class,Consumer,42026,530.272
+Standard Class,Consumer,42012,187.228
+Standard Class,Consumer,42130,16.72
+Standard Class,Consumer,42111,12.84
+Standard Class,Consumer,42351,299.07
+Standard Class,Consumer,42687,239.92
+Standard Class,Consumer,42396,3002.65
+Standard Class,Consumer,42617,107.552
+Standard Class,Consumer,42554,311.96
+Standard Class,Consumer,42426,428.704
+Standard Class,Consumer,42541,536.36
+Standard Class,Consumer,42711,82.38
+Standard Class,Consumer,42530,49.12
+Standard Class,Consumer,42634,12.294
+Standard Class,Consumer,42707,98.446
+Standard Class,Consumer,42567,242.352
+Standard Class,Consumer,42624,67.9
+Standard Class,Consumer,42370,71.096
+Standard Class,Consumer,42554,24
+Standard Class,Consumer,42377,2.808
+Standard Class,Corporate,41568,788.86
+Standard Class,Corporate,41364,1.869
+Standard Class,Corporate,41599,865.5
+Standard Class,Corporate,41579,1044.44
+Standard Class,Corporate,41610,21.19
+Standard Class,Corporate,41408,310.88
+Standard Class,Corporate,41393,661.504
+Standard Class,Corporate,41503,484.79
+Standard Class,Corporate,41624,1.167
+Standard Class,Corporate,41558,16.23
+Standard Class,Corporate,41506,1417.35
+Standard Class,Corporate,41565,605.34
+Standard Class,Corporate,41487,202.896
+Standard Class,Corporate,41415,3333.9
+Standard Class,Corporate,41545,106.944
+Standard Class,Corporate,41371,752.92
+Standard Class,Corporate,41600,1022.61
+Standard Class,Corporate,41385,828.84
+Standard Class,Corporate,41556,88.768
+Standard Class,Corporate,41529,192.424
+Standard Class,Corporate,41424,13.62
+Standard Class,Corporate,41608,6.642
+Standard Class,Corporate,41284,54.83
+Standard Class,Corporate,41368,364.93
+Standard Class,Corporate,41537,2.816
+Standard Class,Corporate,41569,129.92
+Standard Class,Corporate,41579,75.16
+Standard Class,Corporate,41460,4.368
+Standard Class,Corporate,41635,521.92
+Standard Class,Corporate,41380,39.072
+Standard Class,Corporate,41366,177.68
+Standard Class,Corporate,41456,581.104
+Standard Class,Corporate,41354,3769.56
+Standard Class,Corporate,41495,193.936
+Standard Class,Corporate,41724,74.352
+Standard Class,Corporate,42000,284.44
+Standard Class,Corporate,41643,192.22
+Standard Class,Corporate,41803,976.29
+Standard Class,Corporate,41950,1361.631
+Standard Class,Corporate,41813,268.4
+Standard Class,Corporate,41951,81.135
+Standard Class,Corporate,41955,792.508
+Standard Class,Corporate,41907,22.549
+Standard Class,Corporate,41720,19.56
+Standard Class,Corporate,41872,53.28
+Standard Class,Corporate,41987,62.46
+Standard Class,Corporate,41710,45.976
+Standard Class,Corporate,41948,207
+Standard Class,Corporate,41729,79.96
+Standard Class,Corporate,41803,6.48
+Standard Class,Corporate,41808,13.632
+Standard Class,Corporate,41901,66.36
+Standard Class,Corporate,41677,324.11
+Standard Class,Corporate,41749,896.31
+Standard Class,Corporate,41885,200.984
+Standard Class,Corporate,41988,246.168
+Standard Class,Corporate,41890,21.36
+Standard Class,Corporate,41991,94.688
+Standard Class,Corporate,41845,457.04
+Standard Class,Corporate,41782,186.69
+Standard Class,Corporate,41860,4.608
+Standard Class,Corporate,41888,7.24
+Standard Class,Corporate,41760,277.632
+Standard Class,Corporate,41798,937.608
+Standard Class,Corporate,41851,239.7
+Standard Class,Corporate,41969,692.472
+Standard Class,Corporate,41888,46.62
+Standard Class,Corporate,42021,316
+Standard Class,Corporate,42270,104.712
+Standard Class,Corporate,42137,10.96
+Standard Class,Corporate,42258,519.68
+Standard Class,Corporate,42155,4317.3
+Standard Class,Corporate,42329,574.056
+Standard Class,Corporate,42193,45.584
+Standard Class,Corporate,42076,12.96
+Standard Class,Corporate,42244,9.216
+Standard Class,Corporate,42229,562.2925
+Standard Class,Corporate,42083,31.086
+Standard Class,Corporate,42091,92.7
+Standard Class,Corporate,42337,7.434
+Standard Class,Corporate,42260,1159.06
+Standard Class,Corporate,42107,191.808
+Standard Class,Corporate,42041,132.224
+Standard Class,Corporate,42118,36.24
+Standard Class,Corporate,42268,115.48
+Standard Class,Corporate,42153,452.464
+Standard Class,Corporate,42368,40.896
+Standard Class,Corporate,42266,383.438
+Standard Class,Corporate,42293,342.76
+Standard Class,Corporate,42282,64.248
+Standard Class,Corporate,42204,140.81
+Standard Class,Corporate,42209,324.387
+Standard Class,Corporate,42313,50.496
+Standard Class,Corporate,42155,138.53
+Standard Class,Corporate,42503,20.768
+Standard Class,Corporate,42531,1347.52
+Standard Class,Corporate,42490,26.056
+Standard Class,Corporate,42670,68.967
+Standard Class,Corporate,42536,2942.784
+Standard Class,Corporate,42551,19.52
+Standard Class,Corporate,42677,12.39
+Standard Class,Corporate,42524,35.168
+Standard Class,Corporate,42509,26.16
+Standard Class,Corporate,42620,81.568
+Standard Class,Corporate,42537,14.016
+Standard Class,Corporate,42632,95.616
+Standard Class,Corporate,42526,20.736
+Standard Class,Corporate,42718,204.55
+Standard Class,Corporate,42622,685.26
+Standard Class,Corporate,42547,287.424
+Standard Class,Corporate,42517,39.252
+Standard Class,Corporate,42680,5.78
+Standard Class,Corporate,42439,61.876
+Standard Class,Corporate,42450,64.384
+Standard Class,Corporate,42468,2747.25
+Standard Class,Corporate,42525,103.968
+Standard Class,Corporate,42659,1893.786
+Standard Class,Corporate,42641,10.368
+Standard Class,Corporate,42495,34.5
+Standard Class,Corporate,42677,361.376
+Standard Class,Corporate,42466,8.1
+Standard Class,Corporate,42691,286.09
+Standard Class,Corporate,42631,997.83
+Standard Class,Corporate,42706,47.96
+Standard Class,Corporate,42700,12.84
+Standard Class,Corporate,42484,113.568
+Standard Class,Corporate,42715,873.811
+Standard Class,Corporate,42561,41.91
+Standard Class,Corporate,41354,16.272
+Standard Class,Corporate,41433,170.352
+Standard Class,Corporate,41372,1215.92
+Standard Class,Corporate,41505,344.91
+Standard Class,Corporate,41294,67.194
+Standard Class,Corporate,41530,18.648
+Standard Class,Corporate,41369,115.36
+Standard Class,Corporate,41350,103.5
+Standard Class,Corporate,41722,6.992
+Standard Class,Corporate,41734,157.794
+Standard Class,Corporate,41974,125.64
+Standard Class,Corporate,41825,16.712
+Standard Class,Corporate,42222,197.05
+Standard Class,Corporate,42306,17.616
+Standard Class,Corporate,42139,191.018
+Standard Class,Corporate,42288,24.703
+Standard Class,Corporate,42142,29.97
+Standard Class,Corporate,42112,79.12
+Standard Class,Corporate,42008,959.968
+Standard Class,Corporate,42663,30.336
+Standard Class,Corporate,42474,198.272
+Standard Class,Corporate,42698,76.521
+Standard Class,Corporate,42714,14.76
+Standard Class,Corporate,42457,68.742
+Standard Class,Home Office,41347,91.056
+Standard Class,Home Office,41571,10.368
+Standard Class,Home Office,41580,799.92
+Standard Class,Home Office,41602,111.15
+Standard Class,Home Office,41583,47.79
+Standard Class,Home Office,41629,18.24
+Standard Class,Home Office,41351,23661.228
+Standard Class,Home Office,41574,22.32
+Standard Class,Home Office,41498,457.744
+Standard Class,Home Office,41280,4374.88
+Standard Class,Home Office,41904,763.508
+Standard Class,Home Office,41844,525.95
+Standard Class,Home Office,41818,260.31
+Standard Class,Home Office,41799,113.1
+Standard Class,Home Office,41917,75.04
+Standard Class,Home Office,41914,7.38
+Standard Class,Home Office,41663,13.12
+Standard Class,Home Office,41887,67.96
+Standard Class,Home Office,41993,11.696
+Standard Class,Home Office,41958,39.96
+Standard Class,Home Office,41970,6.24
+Standard Class,Home Office,41789,151.96
+Standard Class,Home Office,42354,19.44
+Standard Class,Home Office,42130,270.728
+Standard Class,Home Office,42298,61.1
+Standard Class,Home Office,42221,158.81
+Standard Class,Home Office,42226,16.218
+Standard Class,Home Office,42302,239.976
+Standard Class,Home Office,42238,37.264
+Standard Class,Home Office,42333,392.832
+Standard Class,Home Office,42320,681.432
+Standard Class,Home Office,42103,215.84
+Standard Class,Home Office,42299,74.32
+Standard Class,Home Office,42150,1311.97
+Standard Class,Home Office,42079,365.44
+Standard Class,Home Office,42075,558.24
+Standard Class,Home Office,42359,34.34
+Standard Class,Home Office,42148,4.98
+Standard Class,Home Office,42262,25.92
+Standard Class,Home Office,42310,273.59
+Standard Class,Home Office,42035,1396.35
+Standard Class,Home Office,42334,5.08
+Standard Class,Home Office,42225,23.34
+Standard Class,Home Office,42726,141.96
+Standard Class,Home Office,42532,3.76
+Standard Class,Home Office,42491,48.9
+Standard Class,Home Office,42664,729.648
+Standard Class,Home Office,42618,147.184
+Standard Class,Home Office,42490,32.088
+Standard Class,Home Office,42624,184.66
+Standard Class,Home Office,42582,41.424
+Standard Class,Home Office,42732,64.784
+Standard Class,Home Office,42608,71.98
+Standard Class,Home Office,42639,419.136
+Standard Class,Home Office,42459,59.76
+Standard Class,Home Office,42637,399.53
+Standard Class,Home Office,42632,35.4
+Standard Class,Home Office,42698,1446.84
+Standard Class,Home Office,42664,17.856
+Standard Class,Home Office,42650,1027.21
+Standard Class,Home Office,42533,544.14
+Standard Class,Home Office,42376,33.74
+Standard Class,Home Office,42599,201.09
+Standard Class,Home Office,42694,27.58
+Standard Class,Home Office,42706,45.66
+Standard Class,Home Office,42678,4.3
+Standard Class,Home Office,42683,691.144
+Standard Class,Home Office,42391,383.992
+Standard Class,Home Office,42515,29.84
+Standard Class,Home Office,42455,57.01
+Standard Class,Home Office,42467,235.44
+Standard Class,Home Office,41347,1139.92
+Standard Class,Home Office,41527,9.64
+Standard Class,Home Office,41300,944.61
+Standard Class,Home Office,41550,67.76
+Standard Class,Home Office,42077,334.2
+Standard Class,Home Office,42274,431.976
+Standard Class,Home Office,42110,895.06
+Standard Class,Home Office,42056,471.078
+Standard Class,Home Office,42140,612.14
+Standard Class,Home Office,42270,13.28
+Standard Class,Home Office,42467,1735.8505
+Standard Class,Home Office,42490,225.546
+Standard Class,Home Office,42602,35.96
+Standard Class,Home Office,42662,1633.188
+Standard Class,Home Office,42446,4.608
+Standard Class,Home Office,42483,513.496
+Standard Class,Home Office,42517,598.31
+Standard Class,Home Office,42637,148.16
+Standard Class,Home Office,42678,9.664
