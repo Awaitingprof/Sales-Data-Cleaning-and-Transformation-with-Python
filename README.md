@@ -7,7 +7,7 @@ Real-world datasets are rarely delivered in a format that is immediately ready f
 ## Dataset Transformation
 ### Raw Structure
 The original CSV used a cross-tabular/pivot-style structure where Segment and Ship Mode information were embedded within the headers.
-
+<img width="964" height="491" alt="Image" src="https://github.com/user-attachments/assets/3bfec76a-1d4c-42a5-9355-8a23bd97882a" />
 It contained:
 - 824 rows
 - 13 columns
