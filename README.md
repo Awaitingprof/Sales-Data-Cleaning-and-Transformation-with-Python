@@ -26,6 +26,7 @@ The cleaned dataset contains:
 - Sales	      Sales amount
 #### Final dimensions:
 822 rows × 4 columns
+<img width="648" height="481" alt="image" src="https://github.com/user-attachments/assets/327c1527-8226-46f5-9297-2abe634b7cd1" />
 
 ## Data Cleaning and Transformation Process
 1. Data Inspection
@@ -122,6 +123,7 @@ with all expected Ship Mode and Segment categories present.
 ## Project Outcome
 The project successfully transformed a complex 824-row, 13-column reporting dataset into a clean 822-row, 4-column analytical dataset.
 ## The final dataset:
+<img width="648" height="481" alt="image" src="https://github.com/user-attachments/assets/916be8be-67db-499d-ac13-8be767ee0d2b" />
 -  Contains only valid sales observations
 -  Uses appropriate data types
 -  Contains no missing values
